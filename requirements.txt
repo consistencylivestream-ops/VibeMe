@@ -1,1 +1,5 @@
-
+Flask
+gunicorn
+openai
+google-auth
+python-dotenv
